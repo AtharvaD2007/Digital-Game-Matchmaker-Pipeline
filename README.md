@@ -108,6 +108,9 @@ Priority Order:
 #2 Frank   WaitTime:50
 #3 Diana   WaitTime:45
 ```
+##Screenshot(output)
+<img width="1470" height="956" alt="Screenshot 2026-06-22 at 5 42 59 PM" src="https://github.com/user-attachments/assets/549aeb47-1e36-4cec-907e-2b21c814a5f3" />
+
 
 ## Learning Outcomes
 
